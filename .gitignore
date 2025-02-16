@@ -1,0 +1,64 @@
+# Ignore everything inside the build folder, but keep the folder itself
+/build/*
+!/build/.gitkeep
+
+# Ignore executables and compiled binaries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+*.class
+*.jar
+
+# Ignore dependency directories
+/node_modules/
+/vendor/
+/deps/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.cache
+
+# Ignore IDE-specific and user-specific files
+*.DS_Store
+*.vscode/
+*.idea/
+*.vs/
+*.iml
+
+# Ignore Python-specific files (if applicable)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Rust build artifacts (if applicable)
+target/
+Cargo.lock
+
+# Ignore Go build artifacts (if applicable)
+*.test
+*.exe
+
+# Ignore CMake and Make build artifacts (if applicable)
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+build.ninja
+
+# Ignore logs and debug files
+*.log
+*.trace
+*.dmp
+*.stackdump
