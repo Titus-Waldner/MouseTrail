@@ -1,3 +1,0 @@
-C:/msys64/home/Comrade Chocobo/mouse_trail/build/CMakeFiles/MouseTrail.dir
-C:/msys64/home/Comrade Chocobo/mouse_trail/build/CMakeFiles/edit_cache.dir
-C:/msys64/home/Comrade Chocobo/mouse_trail/build/CMakeFiles/rebuild_cache.dir
