@@ -1,0 +1,19 @@
+# ninja log v6
+1524	1663	7613932602922681	MouseTrail.exe	ce280d38e9b9896c
+25	1524	7613932587924549	CMakeFiles/MouseTrail.dir/src/particles.cpp.obj	a5e1c67dbe56e4a3
+27	1051	7613932587944871	CMakeFiles/MouseTrail.dir/src/utils.cpp.obj	e4166faec73751e
+19	1387	7613926610184644	CMakeFiles/DesktopOverlay.dir/src/particles.cpp.obj	e0eb3fb53790cd65
+19	961	7613889605764655	CMakeFiles/DesktopOverlay.dir/src/utils.cpp.obj	5ea3882ff67a4078
+22	1223	7613924570468433	CMakeFiles/DesktopOverlay.dir/src/window.cpp.obj	f8d5daf7c7406c1c
+1152	1295	7613931590820940	DesktopOverlay.exe	4b79b1746124b3bc
+30	1318	7613932587974422	CMakeFiles/MouseTrail.dir/src/window.cpp.obj	38e7cf115b78b768
+23	1300	7613932587904588	CMakeFiles/MouseTrail.dir/src/main.cpp.obj	29c72e425f81fbcf
+6	1151	7613931579358153	CMakeFiles/DesktopOverlay.dir/src/main.cpp.obj	44534e2ee7c7fd0d
+18	151	7613939890234530	build.ninja	5d66486e73a4738d
+16	145	7613939890234530	build.ninja	5d66486e73a4738d
+26	96	7613939890743982	CMakeFiles/MouseTrail.dir/resources/app.rc.obj	54d8947a40b05533
+96	243	7613939891449086	MouseTrail.exe	1f820500a45c1a42
+6	1180	7613942274885889	CMakeFiles/MouseTrail.dir/src/window.cpp.obj	38e7cf115b78b768
+1181	1321	7613942286631235	MouseTrail.exe	1f820500a45c1a42
+20	1190	7613942971787072	CMakeFiles/MouseTrail.dir/src/window.cpp.obj	38e7cf115b78b768
+1191	1333	7613942983486305	MouseTrail.exe	1f820500a45c1a42
